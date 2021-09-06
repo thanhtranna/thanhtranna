@@ -40,7 +40,7 @@ I am Thanh Tran, people call me Jeremie. I am a tech enthusiast. I am always ope
 <!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tranthanh95&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranthanh95&hide=TeX&layout=compact&theme=gruvbox)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=thanhtranna&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtranna&hide=TeX&layout=compact&theme=gruvbox)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tranthanh95.tranthanh95)
