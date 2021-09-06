@@ -1,9 +1,9 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/tranthanh95/tranthanh95/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/thanhtranna/thanhtranna/master/wave.gif" width="30px">
 
 I am Thanh Tran, people call me Jeremie. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin: TranThanh](https://img.shields.io/badge/-TranThanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tran-thanh-it/)](https://www.linkedin.com/in/tran-thanh-it/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/tranthanh95?label=follow&style=social)](https://github.com/tranthanh95)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thanhtranna?label=follow&style=social)](https://github.com/thanhtranna)
 [![Gmail Badge](https://img.shields.io/badge/-tranthanh.it.95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tranthanh.it.95@gmail.com)](mailto:tranthanh.it.95@gmail.com)
 
 ## ⚡ Technologies
@@ -43,4 +43,4 @@ I am Thanh Tran, people call me Jeremie. I am a tech enthusiast. I am always ope
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=thanhtranna&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtranna&hide=TeX&layout=compact&theme=gruvbox)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tranthanh95.tranthanh95)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thanhtranna.thanhtranna)
